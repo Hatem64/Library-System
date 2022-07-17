@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1608904534 source:e:\program\codeblocks\directory\library system\main.cpp
+	<iomanip>
+	"UserList.h"
+	"BookList.h"
+	<cstdlib>
+
+1608902827 e:\program\codeblocks\directory\library system\user.h
+	<iostream>
+
+1608724597 e:\program\codeblocks\directory\library system\book.h
+	<iostream>
+	"User.h"
+
+1606586912 source:e:\program\codeblocks\directory\library system\book.cpp
+	"Book.h"
+	<iomanip>
+	<stdlib.h>
+
+1608902829 source:e:\program\codeblocks\directory\library system\user.cpp
+	"User.h"
+
+1606564666 source:c:\users\ahmed\desktop\assignment\nee\library system\book.cpp
+	"Book.h"
+	<iomanip>
+
+1606563185 c:\users\ahmed\desktop\assignment\nee\library system\book.h
+	<iostream>
+	"User.h"
+
+1606559603 c:\users\ahmed\desktop\assignment\nee\library system\user.h
+	<iostream>
+
+1606564567 source:c:\users\ahmed\desktop\assignment\nee\library system\main.cpp
+	<iomanip>
+	"Book.h"
+	"User.h"
+
+1606561345 source:c:\users\ahmed\desktop\assignment\nee\library system\user.cpp
+	"User.h"
+
+1608719439 source:e:\program\codeblocks\directory\library system\userlist.cpp
+	<iomanip>
+	"UserList.h"
+
+1608720238 e:\program\codeblocks\directory\library system\userlist.h
+	"User.h"
+
+1608904469 source:e:\program\codeblocks\directory\library system\booklist.cpp
+	<iomanip>
+	"BookList.h"
+
+1608903786 e:\program\codeblocks\directory\library system\booklist.h
+	"Book.h"
+
+1608918584 source:c:\users\ahmed\desktop\ass\library_system\library system\book.cpp
+	"Book.h"
+	<iomanip>
+	<stdlib.h>
+
+1608724597 c:\users\ahmed\desktop\ass\library_system\library system\book.h
+	<iostream>
+	"User.h"
+
+1608902827 c:\users\ahmed\desktop\ass\library_system\library system\user.h
+	<iostream>
+
+1608918254 source:c:\users\ahmed\desktop\ass\library_system\library system\booklist.cpp
+	<iomanip>
+	"BookList.h"
+
+1608903786 c:\users\ahmed\desktop\ass\library_system\library system\booklist.h
+	"Book.h"
+
+1608918633 source:c:\users\ahmed\desktop\ass\library_system\library system\main.cpp
+	<iostream>
+	<string.h>
+	"UserList.h"
+	"BookList.h"
+
+1608720238 c:\users\ahmed\desktop\ass\library_system\library system\userlist.h
+	"User.h"
+
+1608910109 source:c:\users\ahmed\desktop\ass\library_system\library system\user.cpp
+	"User.h"
+
+1608916620 source:c:\users\ahmed\desktop\ass\library_system\library system\userlist.cpp
+	<iomanip>
+	"UserList.h"
+
+1608918584 source:c:\users\hp\desktop\library system\book.cpp
+	"Book.h"
+	<iomanip>
+	<stdlib.h>
+
+1608724597 c:\users\hp\desktop\library system\book.h
+	<iostream>
+	"User.h"
+
+1608902827 c:\users\hp\desktop\library system\user.h
+	<iostream>
+
+1608919962 source:c:\users\hp\desktop\library system\booklist.cpp
+	<iomanip>
+	"BookList.h"
+
+1608903786 c:\users\hp\desktop\library system\booklist.h
+	"Book.h"
+
+1608919382 source:c:\users\hp\desktop\library system\main.cpp
+	<iostream>
+	<string.h>
+	"UserList.h"
+	"BookList.h"
+
+1608720238 c:\users\hp\desktop\library system\userlist.h
+	"User.h"
+
+1608910109 source:c:\users\hp\desktop\library system\user.cpp
+	"User.h"
+
+1608916620 source:c:\users\hp\desktop\library system\userlist.cpp
+	<iomanip>
+	"UserList.h"
+
